@@ -1,0 +1,10 @@
+legend {
+    background-color:black;
+    color: white;
+    padding: 3px 6px;
+    box-sizing:content-box;
+}
+input {
+    line-height: 1.6;
+}
+
